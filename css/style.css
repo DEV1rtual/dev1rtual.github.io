@@ -201,7 +201,7 @@ textarea {
   display: none; }
 
 .home-hero {
-  color: #ffda00;
+  color: #fff;
   background: linear-gradient(to right, rgb(25, 25, 25), rgba(25, 25, 25)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
